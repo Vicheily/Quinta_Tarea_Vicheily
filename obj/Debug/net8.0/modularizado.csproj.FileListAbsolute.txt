@@ -1,0 +1,14 @@
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\bin\Debug\net8.0\modularizado.exe
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\bin\Debug\net8.0\modularizado.deps.json
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\bin\Debug\net8.0\modularizado.runtimeconfig.json
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\bin\Debug\net8.0\modularizado.dll
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\bin\Debug\net8.0\modularizado.pdb
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.AssemblyInfoInputs.cache
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.AssemblyInfo.cs
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.csproj.CoreCompileInputs.cache
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.dll
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\refint\modularizado.dll
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.pdb
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\modularizado.genruntimeconfig.cache
+C:\Users\Ing Paredes\Documents\PracticaModularizado\modularizado\obj\Debug\net8.0\ref\modularizado.dll
